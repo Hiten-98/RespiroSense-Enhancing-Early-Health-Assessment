@@ -5,3 +5,11 @@ Respiratory sounds are important indicators of respiratory health and respirator
 These sounds can be recorded using digital stethoscopes and other recording techniques. This digital data opens up the possibility of using machine learning to automatically diagnose respiratory disorders like asthma, pneumonia and bronchiolitis, to name a few.
 Extensive preprocessing in audio files were done in order to make it suitable to apply deep learning techniques.
 Throughout my report I have discuss about the data, preprocessing steps used, insights gained from the data and deep learning techniques used.
+
+References:
+https://eden.dei.uc.pt/~ruipedro/publications/Conferences/ICBHI2017a.pdf
+https://librosa.org/doc/latest/index.html
+http://www.auditory.org/mhonarc/2018/msg00007.html
+http://bhichallenge.med.auth.gr/
+https://www.tensorflow.org/tutorials/audio/simple_audio
+
